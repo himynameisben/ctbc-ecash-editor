@@ -1,3 +1,5 @@
+.firebase/hosting.*.cache
+.firebaserc
 .DS_Store
 node_modules
 /dist
